@@ -1,0 +1,13 @@
+/* CSS document */
+
+div.box{
+	width: 200px;
+	height:500px;
+	border: 1px solid black;
+	background: orange;
+}
+
+#imagem{
+	float: left;
+	width: 100px;
+}
